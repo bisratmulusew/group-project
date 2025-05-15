@@ -1,2 +1,1 @@
-# group project 
-Project for programming 2
+"# Group Project" 
